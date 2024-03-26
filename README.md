@@ -1,3 +1,3 @@
-# Log
+# Beam
 
 A messaging app.
